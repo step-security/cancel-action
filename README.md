@@ -1,3 +1,5 @@
+[![StepSecurity Maintained Action](https://raw.githubusercontent.com/step-security/maintained-actions-assets/main/assets/maintained-action-banner.png)](https://docs.stepsecurity.io/actions/stepsecurity-maintained-actions)
+
 ## Cancel Action
 This Action uses the [GitHub API](https://developer.github.com/v3/actions/workflow_runs/#cancel-a-workflow-run) to cancel the currently running workflow. Example usage:
 
